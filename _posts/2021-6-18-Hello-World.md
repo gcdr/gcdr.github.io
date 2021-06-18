@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Site Running!
+title: Mathematica Examples
 ---
 
 ## Mathematica Examples

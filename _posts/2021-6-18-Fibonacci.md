@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Fibonacci Sequences
+title: Fibonacci
 ---
 
 ## Fibonacci Sequences

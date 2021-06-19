@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Tribonacci & More
+title: Tribonacci
 ---
 
 ## Tribonacci & Quadranacci Sequences

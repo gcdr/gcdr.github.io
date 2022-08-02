@@ -4,11 +4,11 @@ title: About
 permalink: /about/
 ---
 
-Place to access Mathematica Notebooks!
+Place for connecting to many things.
 
 ### More Information
 
-This user prefers to keep an air of mystery about himself.
+This user prefers to keep an aire of mystery about himself.
 
 ### Contact me
 
